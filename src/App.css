@@ -1,0 +1,32 @@
+.pageConatiner
+{
+    display: flex;
+    min-height: 700px;
+}
+.contentContainer
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.post_card
+{
+    margin: 20px 50px;
+    max-width: 600px;
+    min-width: 400px;
+}
+.tagcls
+{
+    margin: 0px 5px;
+}
+.formCls
+{
+    width: 60%;
+    margin-right: 30%;
+    margin-left: 10%;
+}
+.fatchCls
+{
+    display: flex;
+    margin: 10% 40%;
+}
